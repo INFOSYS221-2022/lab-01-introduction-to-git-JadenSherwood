@@ -1,0 +1,38 @@
+Markdown is a lightweight markup language that uses a very basic syntax to describe documents. 
+The Markdown syntax is appealing to users as it can easily be read almost as easily in its 
+plain-text form as it can be when it is rendered. This makes it an ideal format to use for 
+lightweight documentation tasks that might be consumed through a web browser or through a text
+editor. 
+
+Basic formatting in markdown is done through surrounding works with symbols. With this, we can 
+create effects like italicized and bolded text - and can even show content with a monospaced font.
+
+Titles and headings in markdown can be created in a couple of ways. By underlining text with 
+certain characters you are able to generate
+
+#Large titles
+
+and 
+
+Smaller titles
+=====
+
+
+This is fairly useful, but you often wish to generate more levels of heading, so you are also
+able to dictate heading lines by prepending hash-marks to the line to produce
+
+##Huge
+
+Large
+
+Medium
+
+and 
+
+Small
+
+Markdown allows us to generate numbered lists by following these steps
+
+Putting each entry on a new line
+Prepending a number followed by a period to each line
+Observing the results
